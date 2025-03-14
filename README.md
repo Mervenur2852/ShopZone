@@ -10,7 +10,7 @@ This project offers a dynamic user interface with React and provides powerful gl
 🔄 Redux - Powerful global state management <br/>
 🌐 React Router Dom - User-friendly routing system <br/>
 ✨ Tailwind CSS - Flexible and minimalist design tool <br/>
-🛒 FakeAPI - Mock API for product data  türkçeye çevir
+🛒 FakeAPI - Mock API for product data
 
 # 📸 Screenshot
 ![ViteReact-GoogleChrome2025-03-1423-40-32-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b0ba38bd-7663-4ba0-b3e7-2cfb1b0752de)
